@@ -1,0 +1,28 @@
+#hero {
+    background:
+        linear-gradient(
+            rgba(0, 0, 0, 0.45),
+            rgba(0, 0, 0, 0.45)
+        ),
+        url('../media/pexels-stanislav-kondratiev-2908984.jpg');;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 536px;
+}
+
+section > #hero {
+    margin: -3.9rem 0 0 0 ;
+}
+
+.w-40 {
+    width: 40% !important;
+}
+
+.mb-6 {
+    margin: 0 0 4rem 0;
+}
+
+.text-emerald {
+    color: #10b981;
+}
